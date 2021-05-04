@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="https://t.me/ani_music_bot?startgroup=true"
                     )]
             ]
         ),
