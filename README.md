@@ -27,6 +27,6 @@ MUSIC BOT FOR PLAY SONGS IN VOICE CHAT
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hexor752/SankiiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aniket-yt/aniketmusicbot)
 
 ᴜꜱᴇ [Repl Link](https://replit.com/@pawanjatt/evilmusicbot) ᴛᴏ ɢᴇᴛ ᴘʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ
