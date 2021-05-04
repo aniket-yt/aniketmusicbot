@@ -2,7 +2,7 @@
 MUSIC BOT FOR PLAY SONGS IN VOICE CHAT
 
 <p align="center">
-  <img src="https://www.mediafire.com/view/qrisje3b1iy37fo/PicsArt_05-04-08.17.38.jpg/file">
+  <img src="https://www.mediafire.com/convkey/38e2/qrisje3b1iy37fozg.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
