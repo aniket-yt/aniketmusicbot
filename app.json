@@ -1,8 +1,8 @@
 {
-  "name": "ꜱᴀɴᴋɪ ᴍᴜꜱɪᴄ ʙᴏᴛ",
-  "description": "ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ'ꜱ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ. ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʏᴛɢᴄᴀʟʟꜱ.",
+  "name": "𝗔𝗻𝗶𝗸𝗲𝘁 𝗺𝘂𝘀𝗶𝗰 𝗯𝗼𝘁",
+  "description": "ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ'ꜱ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ. ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗮𝗻𝗶𝗸𝗲𝘁𝗵𝗮𝗰𝗸𝗲𝗿.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Hexor752/SankiiMusic",
+  "repository": "https://github.com/aniket-yt/aniketmusicbot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "ʏᴏᴜʀ ᴍᴜꜱɪᴄᴘʟᴀʏᴇʀ ʙᴏᴛ ɴᴀᴍᴇ.",
       "required": false,
-      "value": "ʜᴇxᴏʀ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ🎶"
+      "value": "𝗮𝗻𝗶𝗸𝗲𝘁 𝗺𝘂𝘀𝗶𝗰 𝗯𝗼𝘁"
     },
     "API_ID": {
       "description": "ᴀᴘᴘ ɪᴅ",
